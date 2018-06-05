@@ -1,0 +1,30 @@
+{
+  "name": "basic-blockchain",
+  "version": "1.0.0",
+  "description": "Basic working of blockchain in javascript",
+  "main": "main.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "node-static": "^0.7.10",
+    "node-gyp": "^3.6.2",
+    "npm-install-all": "^1.1.21",
+    "rebuild": "^0.1.2",
+    "simple-peer": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan2599/Basic-blockchain.git"
+  },
+  "author": "Rohan Dhoot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohan2599/Basic-blockchain/issues"
+  },
+  "homepage": "https://github.com/rohan2599/Basic-blockchain#readme"
+}
